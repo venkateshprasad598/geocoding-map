@@ -11,7 +11,7 @@ function App() {
       <Header className="flex items-center bg-white shadow-md">
         <div className="flex items-center space-x-2">
           <MapPin className="h-6 w-6 text-blue-600" />
-          <h1 className="text-xl font-semibold text-gray-800">Police Location Tracker</h1>
+          {/* <h1 className="text-xl font-semibold text-gray-800">Police Location Tracker</h1> */}
         </div>
       </Header>
       <Content>
